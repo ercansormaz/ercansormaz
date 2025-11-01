@@ -6,16 +6,17 @@
 ---
 
 ### 🧰 What I Work With
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -29,13 +30,17 @@
 ---
 
 ### 🌟 Fun Facts
-- ☕ Coffee fuels my coding sessions  
-- 🎵 Music makes debugging enjoyable  
-- 🧩 I love solving tricky backend puzzles  
-- 🤖 Talking to AI is my kind of brainstorming
+☕ Coffee fuels my coding sessions  
+🎵 Music makes debugging enjoyable  
+🧩 I love solving tricky backend puzzles  
+🤖 Talking to AI is my kind of brainstorming  
 
 ---
 
 ### 📫 Let's Connect
 📧 [me@ercan.dev](mailto:me@ercan.dev)  
 💼 [in/ercansormaz](https://www.linkedin.com/in/ercansormaz)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=ercansormaz&color=red)
